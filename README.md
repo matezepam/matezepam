@@ -1,7 +1,5 @@
 <div align="center">
   
-# 💻 Tech Stack & Tools
-
 ## 🧠 Programming Languages
 
 <div align="center">
