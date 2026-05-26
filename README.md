@@ -380,11 +380,6 @@ Kali Linux
 </td>
 
 <td align="center" width="120">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Parrot_Logo.png" width="50"/><br>
-Parrot OS
-</td>
-
-<td align="center" width="120">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width="50"/><br>
 Debian
 </td>
