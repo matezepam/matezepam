@@ -132,25 +132,25 @@
 <h2 align="center"><img src="assets/terminal/command-git-stats-public.svg" width="256" height="34" alt="$ git stats --public"></h2>
 
 <p align="center">
-  <a href="https://github.com/matezepam?tab=repositories"><img src="assets/banners/metrics-account.svg" width="760" alt="GitHub account: Public original repos 6, Stars earned 2, Primary languages 3"></a>
+  <a href="https://github.com/matezepam?tab=repositories"><img src="assets/banners/metrics-account.svg" width="620" alt="GitHub account: Public original repos 6, Stars earned 2, Primary languages 3"></a>
 </p>
 
 <p align="center">
-  <img src="assets/banners/metrics-languages.svg" width="760" alt="Primary repository languages: Kotlin: 1 repository, TypeScript: 1 repository, Vue: 1 repository">
+  <img src="assets/banners/metrics-languages.svg" width="620" alt="Primary repository languages: Kotlin: 1 repository, TypeScript: 1 repository, Vue: 1 repository">
 </p>
 
 <p align="center">
-  <img src="assets/banners/metrics-commits.svg" width="760" alt="Recent public commits: b1dc17c in matezepam on 2026-11-25, a5db33a in C4T1-Diodos on 2026-11-22, df084fe in C4T1-Diodos on 2026-11-22">
+  <img src="assets/banners/metrics-commits.svg" width="620" alt="Recent public commits: b1dc17c in matezepam on 2026-11-25, a5db33a in C4T1-Diodos on 2026-11-22, df084fe in C4T1-Diodos on 2026-11-22">
 </p>
 
 <h2 align="center"><img src="assets/terminal/command-connect-socials.svg" width="245" height="34" alt="$ connect --socials"></h2>
 
 <p align="center">
-  <a href="https://github.com/matezepam"><img src="assets/icons/socials/github.svg" width="130" height="118" alt="GitHub"></a>
-  <a href="https://www.instagram.com/matezepam/"><img src="assets/icons/socials/instagram.svg" width="130" height="118" alt="Instagram"></a>
-  <a href="https://www.tiktok.com/@matezepam"><img src="assets/icons/socials/tiktok.svg" width="130" height="118" alt="TikTok"></a>
+  <a href="https://github.com/matezepam"><img src="assets/icons/socials/github.svg" width="100" height="84" alt="GitHub"></a>
+  <a href="https://www.instagram.com/matezepam/"><img src="assets/icons/socials/instagram.svg" width="100" height="84" alt="Instagram"></a>
+  <a href="https://www.tiktok.com/@matezepam"><img src="assets/icons/socials/tiktok.svg" width="100" height="84" alt="TikTok"></a>
   <!-- Wrap the LinkedIn image in a link once the profile URL is available. -->
-  <img src="assets/icons/socials/linkedin.svg" width="130" height="118" alt="LinkedIn">
+  <img src="assets/icons/socials/linkedin.svg" width="100" height="84" alt="LinkedIn">
 </p>
 
 <!--
