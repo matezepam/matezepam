@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="504" height="124" viewBox="0 0 504 124"><title>Adobe Photoshop, Adobe Illustrator, Photopea, Wilcom EmbroideryStudio e4</title><style>
+@media (prefers-reduced-motion: no-preference) {
+  .terminal-type { animation:terminal-type var(--typed-duration,.9s) steps(var(--typed-steps,20),end) var(--type-delay,.08s) both; }
+  .terminal-rule-in { transform-origin:center;animation:terminal-line .6s ease-out both; }
+}
+@keyframes terminal-type { from {clip-path:inset(0 100% 0 0)} to {clip-path:inset(0)} }
+@keyframes terminal-line { from {transform:scaleX(.15)} to {transform:scaleX(1)} }
+.term-panel {fill:#fffafa;stroke:#d99ca5}
+.term-bar {fill:#f9e9ec}
+.term-rule {stroke:#d99ca5}
+.term-text {fill:#8e142b}
+.term-muted {fill:#932b3c}
+.term-accent {fill:#a41931}
+.term-accent-stroke {stroke:#a41931}
+@media (prefers-color-scheme: dark) {
+.term-panel {fill:#100d10;stroke:#6f2631}
+.term-bar {fill:#201417}
+.term-rule {stroke:#6f2631}
+.term-text {fill:#ffd0d7}
+.term-muted {fill:#eab3bd}
+.term-accent {fill:#ff6078}
+.term-accent-stroke {stroke:#ff6078}
+}
+</style><svg width="126" height="114" viewBox="-5 -5 130 118" x="0" y="5" style="--icon-delay:0.00s;--label-delay:0.35s"><title>Adobe Photoshop</title><style>
+@media (prefers-reduced-motion: no-preference) {
+  .terminal-type { animation:terminal-type var(--typed-duration,.9s) steps(var(--typed-steps,20),end) var(--type-delay,.08s) both; }
+  .terminal-rule-in { transform-origin:center;animation:terminal-line .6s ease-out both; }
+}
+@keyframes terminal-type { from {clip-path:inset(0 100% 0 0)} to {clip-path:inset(0)} }
+@keyframes terminal-line { from {transform:scaleX(.15)} to {transform:scaleX(1)} }
+.term-panel {fill:#fffafa;stroke:#d99ca5}
+.term-bar {fill:#f9e9ec}
+.term-rule {stroke:#d99ca5}
+.term-text {fill:#8e142b}
+.term-muted {fill:#932b3c}
+.term-accent {fill:#a41931}
+.term-accent-stroke {stroke:#a41931}
+@media (prefers-color-scheme: dark) {
+.term-panel {fill:#100d10;stroke:#6f2631}
+.term-bar {fill:#201417}
+.term-rule {stroke:#6f2631}
+.term-text {fill:#ffd0d7}
+.term-muted {fill:#eab3bd}
+.term-accent {fill:#ff6078}
+.term-accent-stroke {stroke:#ff6078}
+}
+</style><style>
+.logo-dark {display:none}
+@media (prefers-color-scheme: dark) {.logo-light {display:none}.logo-dark {display:inline}}
+@media (prefers-reduced-motion: no-preference) {
+  .caption { --type-delay:var(--label-delay,.28s) }
+}
+</style><defs><filter id="card0-logo-dark" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB"><feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 0.35 0 0 0 0 0.46 1.2 1.2 1.2 0 -.28" /><feComposite in2="SourceAlpha" operator="in" /></filter><filter id="card0-logo-light" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB"><feColorMatrix type="matrix" values="0 0 0 0 0.62 0 0 0 0 0.07 0 0 0 0 0.17 1.2 1.2 1.2 0 -.28" /><feComposite in2="SourceAlpha" operator="in" /></filter><g id="card0-logo-source"><svg viewBox="0 0 128 128" x="32" y="10" width="56" height="56"><path fill="#001e36" d="M22.667 1.6h82.666C117.867 1.6 128 11.733 128 24.267v79.466c0 12.534-10.133 22.667-22.667 22.667H22.667C10.133 126.4 0 116.267 0 103.733V24.267C0 11.733 10.133 1.6 22.667 1.6Z" /><path fill="#31a8ff" d="M45.867 33.333c-1.6 0-3.2 0-4.853.054-1.654.053-3.201.053-4.641.107-1.44.053-2.773.053-4.053.106-1.227.053-2.08.053-2.987.053-.373 0-.533.213-.533.587v54.88c0 .48.213.694.64.694h10.347c.373-.054.64-.374.586-.747v-17.12c1.013 0 1.76 0 2.294.053.533.053 1.386.053 2.666.053 4.374 0 8.374-.48 12-1.813 3.467-1.28 6.454-3.52 8.587-6.507 2.133-2.986 3.2-6.773 3.2-11.36 0-2.4-.426-4.693-1.226-6.933A16.98 16.98 0 0 0 64 39.36a19.049 19.049 0 0 0-7.147-4.374c-2.987-1.12-6.613-1.653-10.986-1.653Zm1.19 10.505c1.9.036 3.75.368 5.476 1.068 1.547.587 2.827 1.654 3.734 3.04a8.779 8.779 0 0 1 1.227 4.748c0 2.346-.534 4.16-1.654 5.493-1.174 1.333-2.667 2.347-4.373 2.827-1.974.64-4.054.959-6.134.959h-2.827c-.64 0-1.332-.053-2.079-.106v-17.92c.373-.054 1.12-.107 2.187-.053 1.013-.054 2.239-.054 3.626-.054.273-.007.546-.008.817-.002zm44.73 2.723c-3.787 0-6.934.586-9.44 1.866-2.293 1.067-4.267 2.773-5.6 4.906-1.173 1.974-1.814 4.16-1.814 6.454a11.447 11.447 0 0 0 1.227 5.44 13.809 13.809 0 0 0 4.054 4.533 32.629 32.629 0 0 0 7.573 3.84c2.613 1.013 4.373 1.813 5.227 2.506.853.694 1.28 1.387 1.28 2.134 0 .96-.587 1.867-1.44 2.24-.96.48-2.4.747-4.427.747-2.133 0-4.267-.267-6.294-.8a22.834 22.834 0 0 1-6.613-2.613c-.16-.107-.32-.16-.48-.053-.16.106-.213.319-.213.479v9.28c-.053.427.213.8.587 1.013a21.49 21.49 0 0 0 5.44 1.707c2.4.48 4.799.693 7.252.693 3.84 0 7.041-.586 9.654-1.706 2.4-.96 4.48-2.613 5.973-4.747a12.41 12.41 0 0 0 2.08-7.093 11.512 11.512 0 0 0-1.226-5.493c-1.014-1.814-2.454-3.307-4.214-4.427a38.625 38.625 0 0 0-8.213-3.894 48.784 48.784 0 0 1-3.787-1.76c-.693-.373-1.333-.853-1.813-1.44-.32-.427-.533-.906-.533-1.386 0-.48.16-1.013.426-1.44.374-.533.96-.907 1.653-1.067 1.014-.266 2.134-.427 3.2-.374 2.027 0 4 .267 5.974.694 1.814.373 3.52.96 5.12 1.814.213.106.48.106.96 0a.656.656 0 0 0 .267-.534v-8.693c0-.214-.054-.427-.107-.64-.107-.213-.32-.427-.533-.48A18.762 18.762 0 0 0 98.4 47.04a45.98 45.98 0 0 0-6.613-.48z" /></svg></g></defs><g class="glyph"><use class="logo-light" href="#card0-logo-source" filter="url(#card0-logo-light)" /><use class="logo-dark" href="#card0-logo-source" filter="url(#card0-logo-dark)" /></g><g class="caption term-text" text-anchor="middle" fill="#291519" font-size="12" font-weight="500" font-family="JetBrains Mono, ui-monospace, monospace"><text class="terminal-type" x="60" y="85" xml:space="preserve"><tspan class="typed-char" style="--char-delay:0.000s;--char-scroll:17.00%">A</tspan><tspan class="typed-char" style="--char-delay:0.045s;--char-scroll:34.00%">d</tspan><tspan class="typed-char" style="--char-delay:0.090s;--char-scroll:51.00%">o</tspan><tspan class="typed-char" style="--char-delay:0.135s;--char-scroll:68.00%">b</tspan><tspan class="typed-char" style="--char-delay:0.180s;--char-scroll:85.00%">e</tspan></text><text class="terminal-type" x="60" y="99" xml:space="preserve"><tspan class="typed-char" style="--char-delay:0.000s;--char-scroll:9.44%">P</tspan><tspan class="typed-char" style="--char-delay:0.045s;--char-scroll:18.89%">h</tspan><tspan class="typed-char" style="--char-delay:0.090s;--char-scroll:28.33%">o</tspan><tspan class="typed-char" style="--char-delay:0.135s;--char-scroll:37.78%">t</tspan><tspan class="typed-char" style="--char-delay:0.180s;--char-scroll:47.22%">o</tspan><tspan class="typed-char" style="--char-delay:0.225s;--char-scroll:56.67%">s</tspan><tspan class="typed-char" style="--char-delay:0.270s;--char-scroll:66.11%">h</tspan><tspan class="typed-char" style="--char-delay:0.315s;--char-scroll:75.56%">o</tspan><tspan class="typed-char" style="--char-delay:0.360s;--char-scroll:85.00%">p</tspan></text></g><style>
+@media (prefers-reduced-motion: no-preference) {
+  .terminal-type,.copy-line,.metric,.typed {animation:none!important}
+  .typed-char {animation:character-visible .045s step-end calc(var(--type-delay,var(--delay,.08s)) + var(--char-delay)) both}
+}
+@keyframes character-visible {from {opacity:0} to {opacity:1}}
+</style></svg><svg width="126" height="114" viewBox="-5 -5 130 118" x="126" y="5" style="--icon-delay:0.21s;--label-delay:0.62s"><title>Adobe Illustrator</title><style>
+@media (prefers-reduced-motion: no-preference) {
+  .terminal-type { animation:terminal-type var(--typed-duration,.9s) steps(var(--typed-steps,20),end) var(--type-delay,.08s) both; }
+  .terminal-rule-in { transform-origin:center;animation:terminal-line .6s ease-out both; }
+}
+@keyframes terminal-type { from {clip-path:inset(0 100% 0 0)} to {clip-path:inset(0)} }
+@keyframes terminal-line { from {transform:scaleX(.15)} to {transform:scaleX(1)} }
+.term-panel {fill:#fffafa;stroke:#d99ca5}
+.term-bar {fill:#f9e9ec}
+.term-rule {stroke:#d99ca5}
+.term-text {fill:#8e142b}
+.term-muted {fill:#932b3c}
+.term-accent {fill:#a41931}
+.term-accent-stroke {stroke:#a41931}
+@media (prefers-color-scheme: dark) {
+.term-panel {fill:#100d10;stroke:#6f2631}
+.term-bar {fill:#201417}
+.term-rule {stroke:#6f2631}
+.term-text {fill:#ffd0d7}
+.term-muted {fill:#eab3bd}
+.term-accent {fill:#ff6078}
+.term-accent-stroke {stroke:#ff6078}
+}
+</style><style>
+.logo-dark {display:none}
+@media (prefers-color-scheme: dark) {.logo-light {display:none}.logo-dark {display:inline}}
+@media (prefers-reduced-motion: no-preference) {
+  .caption { --type-delay:var(--label-delay,.28s) }
+}
+</style><defs><filter id="card1-logo-dark" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB"><feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 0.35 0 0 0 0 0.46 1.2 1.2 1.2 0 -.28" /><feComposite in2="SourceAlpha" operator="in" /></filter><filter id="card1-logo-light" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB"><feColorMatrix type="matrix" values="0 0 0 0 0.62 0 0 0 0 0.07 0 0 0 0 0.17 1.2 1.2 1.2 0 -.28" /><feComposite in2="SourceAlpha" operator="in" /></filter><g id="card1-logo-source"><svg xml:space="preserve" viewBox="0 0 128 128" x="32" y="10" width="56" height="56"><path fill="#300" d="M22.7 1.6h82.7c12.5 0 22.7 10.1 22.7 22.7v79.5c0 12.5-10.1 22.7-22.7 22.7H22.7C10.1 126.4 0 116.3 0 103.7V24.3C0 11.7 10.1 1.6 22.7 1.6" /><path fill="#ff9a00" d="M61.9 76.3H42l-4 12.5c-.1.5-.5.8-1 .7H27c-.6 0-.7-.3-.6-1l17.2-49.4c.2-.5.3-1.1.5-1.8.2-1.1.3-2.3.3-3.5-.1-.3.2-.5.4-.6h13.8c.4 0 .6.2.7.4l19.5 54.9c.2.6 0 .9-.5.9H67.1c-.4.1-.7-.2-.9-.6zM45.1 65.4h13.5c-.3-1.1-.7-2.5-1.2-3.8-.5-1.4-1-3-1.4-4.6-.5-1.7-1-3.3-1.5-4.9-.5-1.7-1-3.2-1.4-4.7-.4-1.5-.8-2.9-1.2-4.2h-.1c-.5 2.3-1.1 4.6-1.8 6.9-.8 2.6-1.6 5.2-2.5 7.9-.8 2.7-1.6 5.2-2.4 7.4m45.6-22.7c-1.8.1-3.5-.6-4.7-1.9-1.2-1.3-1.9-3.1-1.8-4.9-.1-1.8.6-3.5 1.9-4.7 1.3-1.2 3-1.9 4.7-1.9 2.1 0 3.7.6 4.9 1.9 1.2 1.3 1.8 3 1.8 4.7.1 1.8-.6 3.6-1.9 4.9-1.3 1.3-3.1 2-4.9 1.9m-6 46.3V47.9c0-.5.2-.7.7-.7H96c.5 0 .7.3.7.7V89c0 .6-.2.9-.7.9H85.5c-.5-.1-.8-.4-.8-.9" /></svg></g></defs><g class="glyph"><use class="logo-light" href="#card1-logo-source" filter="url(#card1-logo-light)" /><use class="logo-dark" href="#card1-logo-source" filter="url(#card1-logo-dark)" /></g><g class="caption term-text" text-anchor="middle" fill="#291519" font-size="12" font-weight="500" font-family="JetBrains Mono, ui-monospace, monospace"><text class="terminal-type" x="60" y="85" xml:space="preserve"><tspan class="typed-char" style="--char-delay:0.000s;--char-scroll:17.00%">A</tspan><tspan class="typed-char" style="--char-delay:0.045s;--char-scroll:34.00%">d</tspan><tspan class="typed-char" style="--char-delay:0.090s;--char-scroll:51.00%">o</tspan><tspan class="typed-char" style="--char-delay:0.135s;--char-scroll:68.00%">b</tspan><tspan class="typed-char" style="--char-delay:0.180s;--char-scroll:85.00%">e</tspan></text><text class="terminal-type" x="60" y="99" xml:space="preserve"><tspan class="typed-char" style="--char-delay:0.000s;--char-scroll:7.73%">I</tspan><tspan class="typed-char" style="--char-delay:0.045s;--char-scroll:15.45%">l</tspan><tspan class="typed-char" style="--char-delay:0.090s;--char-scroll:23.18%">l</tspan><tspan class="typed-char" style="--char-delay:0.135s;--char-scroll:30.91%">u</tspan><tspan class="typed-char" style="--char-delay:0.180s;--char-scroll:38.64%">s</tspan><tspan class="typed-char" style="--char-delay:0.225s;--char-scroll:46.36%">t</tspan><tspan class="typed-char" style="--char-delay:0.270s;--char-scroll:54.09%">r</tspan><tspan class="typed-char" style="--char-delay:0.315s;--char-scroll:61.82%">a</tspan><tspan class="typed-char" style="--char-delay:0.360s;--char-scroll:69.55%">t</tspan><tspan class="typed-char" style="--char-delay:0.405s;--char-scroll:77.27%">o</tspan><tspan class="typed-char" style="--char-delay:0.450s;--char-scroll:85.00%">r</tspan></text></g><style>
+@media (prefers-reduced-motion: no-preference) {
+  .terminal-type,.copy-line,.metric,.typed {animation:none!important}
+  .typed-char {animation:character-visible .045s step-end calc(var(--type-delay,var(--delay,.08s)) + var(--char-delay)) both}
+}
+@keyframes character-visible {from {opacity:0} to {opacity:1}}
+</style></svg><svg width="126" height="114" viewBox="-5 -5 130 118" x="252" y="5" style="--icon-delay:0.42s;--label-delay:0.89s"><title>Photopea</title><style>
+@media (prefers-reduced-motion: no-preference) {
+  .terminal-type { animation:terminal-type var(--typed-duration,.9s) steps(var(--typed-steps,20),end) var(--type-delay,.08s) both; }
+  .terminal-rule-in { transform-origin:center;animation:terminal-line .6s ease-out both; }
+}
+@keyframes terminal-type { from {clip-path:inset(0 100% 0 0)} to {clip-path:inset(0)} }
+@keyframes terminal-line { from {transform:scaleX(.15)} to {transform:scaleX(1)} }
+.term-panel {fill:#fffafa;stroke:#d99ca5}
+.term-bar {fill:#f9e9ec}
+.term-rule {stroke:#d99ca5}
+.term-text {fill:#8e142b}
+.term-muted {fill:#932b3c}
+.term-accent {fill:#a41931}
+.term-accent-stroke {stroke:#a41931}
+@media (prefers-color-scheme: dark) {
+.term-panel {fill:#100d10;stroke:#6f2631}
+.term-bar {fill:#201417}
+.term-rule {stroke:#6f2631}
+.term-text {fill:#ffd0d7}
+.term-muted {fill:#eab3bd}
+.term-accent {fill:#ff6078}
+.term-accent-stroke {stroke:#ff6078}
+}
+</style><style>
+.logo-dark {display:none}
+@media (prefers-color-scheme: dark) {.logo-light {display:none}.logo-dark {display:inline}}
+@media (prefers-reduced-motion: no-preference) {
+  .caption { --type-delay:var(--label-delay,.28s) }
+}
+</style><defs><filter id="card2-logo-dark" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB"><feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 0.35 0 0 0 0 0.46 0 0 0 1 0" /></filter><filter id="card2-logo-light" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB"><feColorMatrix type="matrix" values="0 0 0 0 0.62 0 0 0 0 0.07 0 0 0 0 0.17 0 0 0 1 0" /></filter><g id="card2-logo-source"><svg role="img" viewBox="0 0 24 24" x="32" y="10" width="56" height="56" fill="#36bfaf"><title>Photopea</title><path d="M20.098 0A3.899 3.899 0 0 1 24 3.903v16.194A3.899 3.899 0 0 1 20.098 24H6.393l-.051-10.34v-.074c0-3.92 3.112-7.09 6.963-7.09 2.31 0 4.177 1.902 4.177 4.254 0 2.352-1.867 4.254-4.177 4.254-.77 0-1.393-.634-1.393-1.418 0-.783.623-1.418 1.393-1.418.769 0 1.392-.634 1.392-1.418 0-.784-.623-1.418-1.392-1.418-2.31 0-4.178 1.9-4.178 4.253 0 2.352 1.868 4.254 4.178 4.254 3.85 0 6.962-3.169 6.962-7.09 0-3.92-3.112-7.089-6.962-7.089-5.39 0-9.75 4.436-9.75 9.925v.086l.023 10.315A3.899 3.899 0 0 1 0 20.097V3.903A3.899 3.899 0 0 1 3.902 0z" /></svg></g></defs><g class="glyph"><use class="logo-light" href="#card2-logo-source" filter="url(#card2-logo-light)" /><use class="logo-dark" href="#card2-logo-source" filter="url(#card2-logo-dark)" /></g><g class="caption term-text" text-anchor="middle" fill="#291519" font-size="12" font-weight="500" font-family="JetBrains Mono, ui-monospace, monospace"><text class="terminal-type" x="60" y="91" xml:space="preserve"><tspan class="typed-char" style="--char-delay:0.000s;--char-scroll:10.62%">P</tspan><tspan class="typed-char" style="--char-delay:0.045s;--char-scroll:21.25%">h</tspan><tspan class="typed-char" style="--char-delay:0.090s;--char-scroll:31.88%">o</tspan><tspan class="typed-char" style="--char-delay:0.135s;--char-scroll:42.50%">t</tspan><tspan class="typed-char" style="--char-delay:0.180s;--char-scroll:53.12%">o</tspan><tspan class="typed-char" style="--char-delay:0.225s;--char-scroll:63.75%">p</tspan><tspan class="typed-char" style="--char-delay:0.270s;--char-scroll:74.38%">e</tspan><tspan class="typed-char" style="--char-delay:0.315s;--char-scroll:85.00%">a</tspan></text></g><style>
+@media (prefers-reduced-motion: no-preference) {
+  .terminal-type,.copy-line,.metric,.typed {animation:none!important}
+  .typed-char {animation:character-visible .045s step-end calc(var(--type-delay,var(--delay,.08s)) + var(--char-delay)) both}
+}
+@keyframes character-visible {from {opacity:0} to {opacity:1}}
+</style></svg><svg width="126" height="114" viewBox="-5 -5 130 118" x="378" y="5" style="--icon-delay:0.63s;--label-delay:1.16s"><title>Wilcom EmbroideryStudio e4</title><style>
+@media (prefers-reduced-motion: no-preference) {
+  .terminal-type { animation:terminal-type var(--typed-duration,.9s) steps(var(--typed-steps,20),end) var(--type-delay,.08s) both; }
+  .terminal-rule-in { transform-origin:center;animation:terminal-line .6s ease-out both; }
+}
+@keyframes terminal-type { from {clip-path:inset(0 100% 0 0)} to {clip-path:inset(0)} }
+@keyframes terminal-line { from {transform:scaleX(.15)} to {transform:scaleX(1)} }
+.term-panel {fill:#fffafa;stroke:#d99ca5}
+.term-bar {fill:#f9e9ec}
+.term-rule {stroke:#d99ca5}
+.term-text {fill:#8e142b}
+.term-muted {fill:#932b3c}
+.term-accent {fill:#a41931}
+.term-accent-stroke {stroke:#a41931}
+@media (prefers-color-scheme: dark) {
+.term-panel {fill:#100d10;stroke:#6f2631}
+.term-bar {fill:#201417}
+.term-rule {stroke:#6f2631}
+.term-text {fill:#ffd0d7}
+.term-muted {fill:#eab3bd}
+.term-accent {fill:#ff6078}
+.term-accent-stroke {stroke:#ff6078}
+}
+</style><style>
+.logo-dark {display:none}
+@media (prefers-color-scheme: dark) {.logo-light {display:none}.logo-dark {display:inline}}
+@media (prefers-reduced-motion: no-preference) {
+  .caption { --type-delay:var(--label-delay,.28s) }
+}
+</style><defs><filter id="card3-logo-dark" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB"><feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 0.35 0 0 0 0 0.46 1.2 1.2 1.2 0 -.28" /><feComposite in2="SourceAlpha" operator="in" /></filter><filter id="card3-logo-light" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB"><feColorMatrix type="matrix" values="0 0 0 0 0.62 0 0 0 0 0.07 0 0 0 0 0.17 1.2 1.2 1.2 0 -.28" /><feComposite in2="SourceAlpha" operator="in" /></filter><g id="card3-logo-source"><rect x="34" y="14" width="52" height="52" rx="10" fill="#343434" /><path d="M40 52H80" stroke="#78aff0" /><text x="60" y="46" text-anchor="middle" fill="#fff" font-family="sans-serif" font-size="24" font-weight="bold" font-style="italic">e4</text></g></defs><g class="glyph"><use class="logo-light" href="#card3-logo-source" filter="url(#card3-logo-light)" /><use class="logo-dark" href="#card3-logo-source" filter="url(#card3-logo-dark)" /></g><g class="caption term-text" text-anchor="middle" fill="#291519" font-size="12" font-weight="500" font-family="JetBrains Mono, ui-monospace, monospace"><text class="terminal-type" x="60" y="85" xml:space="preserve"><tspan class="typed-char" style="--char-delay:0.000s;--char-scroll:5.31%">E</tspan><tspan class="typed-char" style="--char-delay:0.045s;--char-scroll:10.62%">m</tspan><tspan class="typed-char" style="--char-delay:0.090s;--char-scroll:15.94%">b</tspan><tspan class="typed-char" style="--char-delay:0.135s;--char-scroll:21.25%">r</tspan><tspan class="typed-char" style="--char-delay:0.180s;--char-scroll:26.56%">o</tspan><tspan class="typed-char" style="--char-delay:0.225s;--char-scroll:31.88%">i</tspan><tspan class="typed-char" style="--char-delay:0.270s;--char-scroll:37.19%">d</tspan><tspan class="typed-char" style="--char-delay:0.315s;--char-scroll:42.50%">e</tspan><tspan class="typed-char" style="--char-delay:0.360s;--char-scroll:47.81%">r</tspan><tspan class="typed-char" style="--char-delay:0.405s;--char-scroll:53.12%">y</tspan><tspan class="typed-char" style="--char-delay:0.450s;--char-scroll:58.44%">S</tspan><tspan class="typed-char" style="--char-delay:0.495s;--char-scroll:63.75%">t</tspan><tspan class="typed-char" style="--char-delay:0.540s;--char-scroll:69.06%">u</tspan><tspan class="typed-char" style="--char-delay:0.585s;--char-scroll:74.38%">d</tspan><tspan class="typed-char" style="--char-delay:0.630s;--char-scroll:79.69%">i</tspan><tspan class="typed-char" style="--char-delay:0.675s;--char-scroll:85.00%">o</tspan></text><text class="terminal-type" x="60" y="99" xml:space="preserve"><tspan class="typed-char" style="--char-delay:0.000s;--char-scroll:7.73%">e</tspan><tspan class="typed-char" style="--char-delay:0.045s;--char-scroll:15.45%">4</tspan> <tspan class="typed-char" style="--char-delay:0.135s;--char-scroll:30.91%">·</tspan> <tspan class="typed-char" style="--char-delay:0.225s;--char-scroll:46.36%">W</tspan><tspan class="typed-char" style="--char-delay:0.270s;--char-scroll:54.09%">i</tspan><tspan class="typed-char" style="--char-delay:0.315s;--char-scroll:61.82%">l</tspan><tspan class="typed-char" style="--char-delay:0.360s;--char-scroll:69.55%">c</tspan><tspan class="typed-char" style="--char-delay:0.405s;--char-scroll:77.27%">o</tspan><tspan class="typed-char" style="--char-delay:0.450s;--char-scroll:85.00%">m</tspan></text></g><style>
+@media (prefers-reduced-motion: no-preference) {
+  .terminal-type,.copy-line,.metric,.typed {animation:none!important}
+  .typed-char {animation:character-visible .045s step-end calc(var(--type-delay,var(--delay,.08s)) + var(--char-delay)) both}
+}
+@keyframes character-visible {from {opacity:0} to {opacity:1}}
+</style></svg></svg>

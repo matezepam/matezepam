@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="223" height="34" viewBox="0 0 223 34"><title>Operating Systems</title><style>
+@media (prefers-reduced-motion: no-preference) {
+  .terminal-type { animation:terminal-type var(--typed-duration,.9s) steps(var(--typed-steps,20),end) var(--type-delay,.08s) both; }
+  .terminal-rule-in { transform-origin:center;animation:terminal-line .6s ease-out both; }
+}
+@keyframes terminal-type { from {clip-path:inset(0 100% 0 0)} to {clip-path:inset(0)} }
+@keyframes terminal-line { from {transform:scaleX(.15)} to {transform:scaleX(1)} }
+.term-panel {fill:#fffafa;stroke:#d99ca5}
+.term-bar {fill:#f9e9ec}
+.term-rule {stroke:#d99ca5}
+.term-text {fill:#8e142b}
+.term-muted {fill:#932b3c}
+.term-accent {fill:#a41931}
+.term-accent-stroke {stroke:#a41931}
+@media (prefers-color-scheme: dark) {
+.term-panel {fill:#100d10;stroke:#6f2631}
+.term-bar {fill:#201417}
+.term-rule {stroke:#6f2631}
+.term-text {fill:#ffd0d7}
+.term-muted {fill:#eab3bd}
+.term-accent {fill:#ff6078}
+.term-accent-stroke {stroke:#ff6078}
+}
+</style><text x="111.5" y="23" text-anchor="middle" class="term-accent terminal-type" font-family="JetBrains Mono, ui-monospace, monospace" font-size="16" xml:space="preserve"><tspan class="typed-char" style="--char-delay:0.000s;--char-scroll:5.00%">O</tspan><tspan class="typed-char" style="--char-delay:0.045s;--char-scroll:10.00%">p</tspan><tspan class="typed-char" style="--char-delay:0.090s;--char-scroll:15.00%">e</tspan><tspan class="typed-char" style="--char-delay:0.135s;--char-scroll:20.00%">r</tspan><tspan class="typed-char" style="--char-delay:0.180s;--char-scroll:25.00%">a</tspan><tspan class="typed-char" style="--char-delay:0.225s;--char-scroll:30.00%">t</tspan><tspan class="typed-char" style="--char-delay:0.270s;--char-scroll:35.00%">i</tspan><tspan class="typed-char" style="--char-delay:0.315s;--char-scroll:40.00%">n</tspan><tspan class="typed-char" style="--char-delay:0.360s;--char-scroll:45.00%">g</tspan> <tspan class="typed-char" style="--char-delay:0.450s;--char-scroll:55.00%">S</tspan><tspan class="typed-char" style="--char-delay:0.495s;--char-scroll:60.00%">y</tspan><tspan class="typed-char" style="--char-delay:0.540s;--char-scroll:65.00%">s</tspan><tspan class="typed-char" style="--char-delay:0.585s;--char-scroll:70.00%">t</tspan><tspan class="typed-char" style="--char-delay:0.630s;--char-scroll:75.00%">e</tspan><tspan class="typed-char" style="--char-delay:0.675s;--char-scroll:80.00%">m</tspan><tspan class="typed-char" style="--char-delay:0.720s;--char-scroll:85.00%">s</tspan></text><style>
+@media (prefers-reduced-motion: no-preference) {
+  .terminal-type,.copy-line,.metric,.typed {animation:none!important}
+  .typed-char {animation:character-visible .045s step-end calc(var(--type-delay,var(--delay,.08s)) + var(--char-delay)) both}
+}
+@keyframes character-visible {from {opacity:0} to {opacity:1}}
+</style></svg>

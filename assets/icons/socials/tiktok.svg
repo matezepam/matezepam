@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="118" viewBox="-5 -5 130 118"><title>TikTok</title><style>
+@media (prefers-reduced-motion: no-preference) {
+  .terminal-type { animation:terminal-type var(--typed-duration,.9s) steps(var(--typed-steps,20),end) var(--type-delay,.08s) both; }
+  .terminal-rule-in { transform-origin:center;animation:terminal-line .6s ease-out both; }
+}
+@keyframes terminal-type { from {clip-path:inset(0 100% 0 0)} to {clip-path:inset(0)} }
+@keyframes terminal-line { from {transform:scaleX(.15)} to {transform:scaleX(1)} }
+.term-panel {fill:#fffafa;stroke:#d99ca5}
+.term-bar {fill:#f9e9ec}
+.term-rule {stroke:#d99ca5}
+.term-text {fill:#8e142b}
+.term-muted {fill:#932b3c}
+.term-accent {fill:#a41931}
+.term-accent-stroke {stroke:#a41931}
+@media (prefers-color-scheme: dark) {
+.term-panel {fill:#100d10;stroke:#6f2631}
+.term-bar {fill:#201417}
+.term-rule {stroke:#6f2631}
+.term-text {fill:#ffd0d7}
+.term-muted {fill:#eab3bd}
+.term-accent {fill:#ff6078}
+.term-accent-stroke {stroke:#ff6078}
+}
+</style><style>
+.logo-dark {display:none}
+@media (prefers-color-scheme: dark) {.logo-light {display:none}.logo-dark {display:inline}}
+@media (prefers-reduced-motion: no-preference) {
+  .caption { --type-delay:var(--label-delay,.28s) }
+}
+</style><defs><filter id="logo-dark" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB"><feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 0.35 0 0 0 0 0.46 0 0 0 1 0"/></filter><filter id="logo-light" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB"><feColorMatrix type="matrix" values="0 0 0 0 0.62 0 0 0 0 0.07 0 0 0 0 0.17 0 0 0 1 0"/></filter><g id="logo-source"><svg role="img" viewBox="0 0 24 24" x="32" y="10" width="56" height="56" fill="#f2f6ff"><title>TikTok</title><path d="M12.525.02c1.31-.02 2.61-.01 3.91-.02.08 1.53.63 3.09 1.75 4.17 1.12 1.11 2.7 1.62 4.24 1.79v4.03c-1.44-.05-2.89-.35-4.2-.97-.57-.26-1.1-.59-1.62-.93-.01 2.92.01 5.84-.02 8.75-.08 1.4-.54 2.79-1.35 3.94-1.31 1.92-3.58 3.17-5.91 3.21-1.43.08-2.86-.31-4.08-1.03-2.02-1.19-3.44-3.37-3.65-5.71-.02-.5-.03-1-.01-1.49.18-1.9 1.12-3.72 2.58-4.96 1.66-1.44 3.98-2.13 6.15-1.72.02 1.48-.04 2.96-.04 4.44-.99-.32-2.15-.23-3.02.37-.63.41-1.11 1.04-1.36 1.75-.21.51-.15 1.07-.14 1.61.24 1.64 1.82 3.02 3.5 2.87 1.12-.01 2.19-.66 2.77-1.61.19-.33.4-.67.41-1.06.1-1.79.06-3.57.07-5.36.01-4.03-.01-8.05.02-12.07z" /></svg></g></defs><g class="glyph"><use class="logo-light" href="#logo-source" filter="url(#logo-light)"/><use class="logo-dark" href="#logo-source" filter="url(#logo-dark)"/></g><g class="caption term-text" text-anchor="middle" fill="#291519" font-size="12" font-weight="500" font-family="JetBrains Mono, ui-monospace, monospace"><text class="terminal-type" x="60" y="91" xml:space="preserve"><tspan class="typed-char" style="--char-delay:0.000s;--char-scroll:14.17%">T</tspan><tspan class="typed-char" style="--char-delay:0.045s;--char-scroll:28.33%">i</tspan><tspan class="typed-char" style="--char-delay:0.090s;--char-scroll:42.50%">k</tspan><tspan class="typed-char" style="--char-delay:0.135s;--char-scroll:56.67%">T</tspan><tspan class="typed-char" style="--char-delay:0.180s;--char-scroll:70.83%">o</tspan><tspan class="typed-char" style="--char-delay:0.225s;--char-scroll:85.00%">k</tspan></text></g><style>
+@media (prefers-reduced-motion: no-preference) {
+  .terminal-type,.copy-line,.metric,.typed {animation:none!important}
+  .typed-char {animation:character-visible .045s step-end calc(var(--type-delay,var(--delay,.08s)) + var(--char-delay)) both}
+}
+@keyframes character-visible {from {opacity:0} to {opacity:1}}
+</style></svg>

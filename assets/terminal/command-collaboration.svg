@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="179" height="34" viewBox="0 0 179 34"><title>Collaboration</title><style>
+@media (prefers-reduced-motion: no-preference) {
+  .terminal-type { animation:terminal-type var(--typed-duration,.9s) steps(var(--typed-steps,20),end) var(--type-delay,.08s) both; }
+  .terminal-rule-in { transform-origin:center;animation:terminal-line .6s ease-out both; }
+}
+@keyframes terminal-type { from {clip-path:inset(0 100% 0 0)} to {clip-path:inset(0)} }
+@keyframes terminal-line { from {transform:scaleX(.15)} to {transform:scaleX(1)} }
+.term-panel {fill:#fffafa;stroke:#d99ca5}
+.term-bar {fill:#f9e9ec}
+.term-rule {stroke:#d99ca5}
+.term-text {fill:#8e142b}
+.term-muted {fill:#932b3c}
+.term-accent {fill:#a41931}
+.term-accent-stroke {stroke:#a41931}
+@media (prefers-color-scheme: dark) {
+.term-panel {fill:#100d10;stroke:#6f2631}
+.term-bar {fill:#201417}
+.term-rule {stroke:#6f2631}
+.term-text {fill:#ffd0d7}
+.term-muted {fill:#eab3bd}
+.term-accent {fill:#ff6078}
+.term-accent-stroke {stroke:#ff6078}
+}
+</style><text x="89.5" y="23" text-anchor="middle" class="term-accent terminal-type" font-family="JetBrains Mono, ui-monospace, monospace" font-size="16" xml:space="preserve"><tspan class="typed-char" style="--char-delay:0.000s;--char-scroll:6.54%">C</tspan><tspan class="typed-char" style="--char-delay:0.045s;--char-scroll:13.08%">o</tspan><tspan class="typed-char" style="--char-delay:0.090s;--char-scroll:19.62%">l</tspan><tspan class="typed-char" style="--char-delay:0.135s;--char-scroll:26.15%">l</tspan><tspan class="typed-char" style="--char-delay:0.180s;--char-scroll:32.69%">a</tspan><tspan class="typed-char" style="--char-delay:0.225s;--char-scroll:39.23%">b</tspan><tspan class="typed-char" style="--char-delay:0.270s;--char-scroll:45.77%">o</tspan><tspan class="typed-char" style="--char-delay:0.315s;--char-scroll:52.31%">r</tspan><tspan class="typed-char" style="--char-delay:0.360s;--char-scroll:58.85%">a</tspan><tspan class="typed-char" style="--char-delay:0.405s;--char-scroll:65.38%">t</tspan><tspan class="typed-char" style="--char-delay:0.450s;--char-scroll:71.92%">i</tspan><tspan class="typed-char" style="--char-delay:0.495s;--char-scroll:78.46%">o</tspan><tspan class="typed-char" style="--char-delay:0.540s;--char-scroll:85.00%">n</tspan></text><style>
+@media (prefers-reduced-motion: no-preference) {
+  .terminal-type,.copy-line,.metric,.typed {animation:none!important}
+  .typed-char {animation:character-visible .045s step-end calc(var(--type-delay,var(--delay,.08s)) + var(--char-delay)) both}
+}
+@keyframes character-visible {from {opacity:0} to {opacity:1}}
+</style></svg>

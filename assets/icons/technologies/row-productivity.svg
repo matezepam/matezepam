@@ -1,0 +1,199 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="630" height="124" viewBox="0 0 630 124"><title>Microsoft Word, Excel, PowerPoint, Power BI, SAP</title><style>
+@media (prefers-reduced-motion: no-preference) {
+  .terminal-type { animation:terminal-type var(--typed-duration,.9s) steps(var(--typed-steps,20),end) var(--type-delay,.08s) both; }
+  .terminal-rule-in { transform-origin:center;animation:terminal-line .6s ease-out both; }
+}
+@keyframes terminal-type { from {clip-path:inset(0 100% 0 0)} to {clip-path:inset(0)} }
+@keyframes terminal-line { from {transform:scaleX(.15)} to {transform:scaleX(1)} }
+.term-panel {fill:#fffafa;stroke:#d99ca5}
+.term-bar {fill:#f9e9ec}
+.term-rule {stroke:#d99ca5}
+.term-text {fill:#8e142b}
+.term-muted {fill:#932b3c}
+.term-accent {fill:#a41931}
+.term-accent-stroke {stroke:#a41931}
+@media (prefers-color-scheme: dark) {
+.term-panel {fill:#100d10;stroke:#6f2631}
+.term-bar {fill:#201417}
+.term-rule {stroke:#6f2631}
+.term-text {fill:#ffd0d7}
+.term-muted {fill:#eab3bd}
+.term-accent {fill:#ff6078}
+.term-accent-stroke {stroke:#ff6078}
+}
+</style><svg width="126" height="114" viewBox="-5 -5 130 118" x="0" y="5" style="--icon-delay:0.00s;--label-delay:0.35s"><title>Microsoft Word</title><style>
+@media (prefers-reduced-motion: no-preference) {
+  .terminal-type { animation:terminal-type var(--typed-duration,.9s) steps(var(--typed-steps,20),end) var(--type-delay,.08s) both; }
+  .terminal-rule-in { transform-origin:center;animation:terminal-line .6s ease-out both; }
+}
+@keyframes terminal-type { from {clip-path:inset(0 100% 0 0)} to {clip-path:inset(0)} }
+@keyframes terminal-line { from {transform:scaleX(.15)} to {transform:scaleX(1)} }
+.term-panel {fill:#fffafa;stroke:#d99ca5}
+.term-bar {fill:#f9e9ec}
+.term-rule {stroke:#d99ca5}
+.term-text {fill:#8e142b}
+.term-muted {fill:#932b3c}
+.term-accent {fill:#a41931}
+.term-accent-stroke {stroke:#a41931}
+@media (prefers-color-scheme: dark) {
+.term-panel {fill:#100d10;stroke:#6f2631}
+.term-bar {fill:#201417}
+.term-rule {stroke:#6f2631}
+.term-text {fill:#ffd0d7}
+.term-muted {fill:#eab3bd}
+.term-accent {fill:#ff6078}
+.term-accent-stroke {stroke:#ff6078}
+}
+</style><style>
+.logo-dark {display:none}
+@media (prefers-color-scheme: dark) {.logo-light {display:none}.logo-dark {display:inline}}
+@media (prefers-reduced-motion: no-preference) {
+  .caption { --type-delay:var(--label-delay,.28s) }
+}
+</style><defs><filter id="card0-logo-dark" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB"><feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 0.35 0 0 0 0 0.46 1.2 1.2 1.2 0 -.28" /><feComposite in2="SourceAlpha" operator="in" /></filter><filter id="card0-logo-light" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB"><feColorMatrix type="matrix" values="0 0 0 0 0.62 0 0 0 0 0.07 0 0 0 0 0.17 1.2 1.2 1.2 0 -.28" /><feComposite in2="SourceAlpha" operator="in" /></filter><g id="card0-logo-source"><svg viewBox="0 0 32 32" x="32" y="10" width="56" height="56"><defs><linearGradient id="card0-a" x1="4.494" x2="13.832" y1="-1712.086" y2="-1695.914" gradientTransform="translate(0 1720)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#2368c4" /><stop offset=".5" stop-color="#1a5dbe" /><stop offset="1" stop-color="#1146ac" /></linearGradient></defs><path fill="#41a5ee" d="M28.806 3H9.705a1.19 1.19 0 0 0-1.193 1.191V9.5l11.069 3.25L30 9.5V4.191A1.19 1.19 0 0 0 28.806 3" /><path fill="#2b7cd3" d="M30 9.5H8.512V16l11.069 1.95L30 16Z" /><path fill="#185abd" d="M8.512 16v6.5l10.418 1.3L30 22.5V16Z" /><path fill="#242424" d="M9.705 29h19.1A1.19 1.19 0 0 0 30 27.809V22.5H8.512v5.309A1.19 1.19 0 0 0 9.705 29" /><path d="M16.434 8.2H8.512v16.25h7.922a1.2 1.2 0 0 0 1.194-1.191V9.391A1.2 1.2 0 0 0 16.434 8.2" opacity=".1" /><path d="M15.783 8.85H8.512V25.1h7.271a1.2 1.2 0 0 0 1.194-1.191V10.041a1.2 1.2 0 0 0-1.194-1.191" opacity=".2" /><path d="M15.783 8.85H8.512V23.8h7.271a1.2 1.2 0 0 0 1.194-1.191V10.041a1.2 1.2 0 0 0-1.194-1.191" opacity=".2" /><path d="M15.132 8.85h-6.62V23.8h6.62a1.2 1.2 0 0 0 1.194-1.191V10.041a1.2 1.2 0 0 0-1.194-1.191" opacity=".2" /><path fill="#363636" d="M3.194 8.85h11.938a1.193 1.193 0 0 1 1.194 1.191v11.918a1.193 1.193 0 0 1-1.194 1.191H3.194A1.19 1.19 0 0 1 2 21.959V10.041A1.19 1.19 0 0 1 3.194 8.85" /><path fill="#fff" d="M6.9 17.988q.035.276.046.481h.028q.015-.195.065-.47c.05-.275.062-.338.089-.465l1.255-5.407h1.624l1.3 5.326a8 8 0 0 1 .162 1h.022a8 8 0 0 1 .135-.975l1.039-5.358h1.477l-1.824 7.748h-1.727l-1.237-5.126q-.054-.222-.122-.578t-.084-.52h-.021q-.021.189-.084.561t-.1.552L7.78 19.871H6.024L4.19 12.127h1.5l1.131 5.418a5 5 0 0 1 .079.443" /></svg></g></defs><g class="glyph"><use class="logo-light" href="#card0-logo-source" filter="url(#card0-logo-light)" /><use class="logo-dark" href="#card0-logo-source" filter="url(#card0-logo-dark)" /></g><g class="caption term-text" text-anchor="middle" fill="#291519" font-size="12" font-weight="500" font-family="JetBrains Mono, ui-monospace, monospace"><text class="terminal-type" x="60" y="85" xml:space="preserve"><tspan class="typed-char" style="--char-delay:0.000s;--char-scroll:9.44%">M</tspan><tspan class="typed-char" style="--char-delay:0.045s;--char-scroll:18.89%">i</tspan><tspan class="typed-char" style="--char-delay:0.090s;--char-scroll:28.33%">c</tspan><tspan class="typed-char" style="--char-delay:0.135s;--char-scroll:37.78%">r</tspan><tspan class="typed-char" style="--char-delay:0.180s;--char-scroll:47.22%">o</tspan><tspan class="typed-char" style="--char-delay:0.225s;--char-scroll:56.67%">s</tspan><tspan class="typed-char" style="--char-delay:0.270s;--char-scroll:66.11%">o</tspan><tspan class="typed-char" style="--char-delay:0.315s;--char-scroll:75.56%">f</tspan><tspan class="typed-char" style="--char-delay:0.360s;--char-scroll:85.00%">t</tspan></text><text class="terminal-type" x="60" y="99" xml:space="preserve"><tspan class="typed-char" style="--char-delay:0.000s;--char-scroll:21.25%">W</tspan><tspan class="typed-char" style="--char-delay:0.045s;--char-scroll:42.50%">o</tspan><tspan class="typed-char" style="--char-delay:0.090s;--char-scroll:63.75%">r</tspan><tspan class="typed-char" style="--char-delay:0.135s;--char-scroll:85.00%">d</tspan></text></g><style>
+@media (prefers-reduced-motion: no-preference) {
+  .terminal-type,.copy-line,.metric,.typed {animation:none!important}
+  .typed-char {animation:character-visible .045s step-end calc(var(--type-delay,var(--delay,.08s)) + var(--char-delay)) both}
+}
+@keyframes character-visible {from {opacity:0} to {opacity:1}}
+</style></svg><svg width="126" height="114" viewBox="-5 -5 130 118" x="126" y="5" style="--icon-delay:0.21s;--label-delay:0.62s"><title>Excel</title><style>
+@media (prefers-reduced-motion: no-preference) {
+  .terminal-type { animation:terminal-type var(--typed-duration,.9s) steps(var(--typed-steps,20),end) var(--type-delay,.08s) both; }
+  .terminal-rule-in { transform-origin:center;animation:terminal-line .6s ease-out both; }
+}
+@keyframes terminal-type { from {clip-path:inset(0 100% 0 0)} to {clip-path:inset(0)} }
+@keyframes terminal-line { from {transform:scaleX(.15)} to {transform:scaleX(1)} }
+.term-panel {fill:#fffafa;stroke:#d99ca5}
+.term-bar {fill:#f9e9ec}
+.term-rule {stroke:#d99ca5}
+.term-text {fill:#8e142b}
+.term-muted {fill:#932b3c}
+.term-accent {fill:#a41931}
+.term-accent-stroke {stroke:#a41931}
+@media (prefers-color-scheme: dark) {
+.term-panel {fill:#100d10;stroke:#6f2631}
+.term-bar {fill:#201417}
+.term-rule {stroke:#6f2631}
+.term-text {fill:#ffd0d7}
+.term-muted {fill:#eab3bd}
+.term-accent {fill:#ff6078}
+.term-accent-stroke {stroke:#ff6078}
+}
+</style><style>
+.logo-dark {display:none}
+@media (prefers-color-scheme: dark) {.logo-light {display:none}.logo-dark {display:inline}}
+@media (prefers-reduced-motion: no-preference) {
+  .caption { --type-delay:var(--label-delay,.28s) }
+}
+</style><defs><filter id="card1-logo-dark" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB"><feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 0.35 0 0 0 0 0.46 1.2 1.2 1.2 0 -.28" /><feComposite in2="SourceAlpha" operator="in" /></filter><filter id="card1-logo-light" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB"><feColorMatrix type="matrix" values="0 0 0 0 0.62 0 0 0 0 0.07 0 0 0 0 0.17 1.2 1.2 1.2 0 -.28" /><feComposite in2="SourceAlpha" operator="in" /></filter><g id="card1-logo-source"><svg viewBox="0 0 32 32" x="32" y="10" width="56" height="56"><defs><linearGradient id="card1-a" x1="4.494" x2="13.832" y1="-2092.086" y2="-2075.914" gradientTransform="translate(0 2100)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#18884f" /><stop offset=".5" stop-color="#117e43" /><stop offset="1" stop-color="#0b6631" /></linearGradient></defs><path fill="#185c37" d="M19.581 15.35 8.512 13.4v14.409A1.19 1.19 0 0 0 9.705 29h19.1A1.19 1.19 0 0 0 30 27.809V22.5Z" /><path fill="#21a366" d="M19.581 3H9.705a1.19 1.19 0 0 0-1.193 1.191V9.5L19.581 16l5.861 1.95L30 16V9.5Z" /><path fill="#107c41" d="M8.512 9.5h11.069V16H8.512Z" /><path d="M16.434 8.2H8.512v16.25h7.922a1.2 1.2 0 0 0 1.194-1.191V9.391A1.2 1.2 0 0 0 16.434 8.2" opacity=".1" /><path d="M15.783 8.85H8.512V25.1h7.271a1.2 1.2 0 0 0 1.194-1.191V10.041a1.2 1.2 0 0 0-1.194-1.191" opacity=".2" /><path d="M15.783 8.85H8.512V23.8h7.271a1.2 1.2 0 0 0 1.194-1.191V10.041a1.2 1.2 0 0 0-1.194-1.191" opacity=".2" /><path d="M15.132 8.85h-6.62V23.8h6.62a1.2 1.2 0 0 0 1.194-1.191V10.041a1.2 1.2 0 0 0-1.194-1.191" opacity=".2" /><path fill="#363636" d="M3.194 8.85h11.938a1.193 1.193 0 0 1 1.194 1.191v11.918a1.193 1.193 0 0 1-1.194 1.191H3.194A1.19 1.19 0 0 1 2 21.959V10.041A1.19 1.19 0 0 1 3.194 8.85" /><path fill="#fff" d="m5.7 19.873 2.511-3.884-2.3-3.862h1.847L9.013 14.6c.116.234.2.408.238.524h.017q.123-.281.26-.546l1.342-2.447h1.7l-2.359 3.84 2.419 3.905h-1.809l-1.45-2.711A2.4 2.4 0 0 1 9.2 16.8h-.024a1.7 1.7 0 0 1-.168.351l-1.493 2.722Z" /><path fill="#33c481" d="M28.806 3h-9.225v6.5H30V4.191A1.19 1.19 0 0 0 28.806 3" /><path fill="#107c41" d="M19.581 16H30v6.5H19.581Z" /></svg></g></defs><g class="glyph"><use class="logo-light" href="#card1-logo-source" filter="url(#card1-logo-light)" /><use class="logo-dark" href="#card1-logo-source" filter="url(#card1-logo-dark)" /></g><g class="caption term-text" text-anchor="middle" fill="#291519" font-size="12" font-weight="500" font-family="JetBrains Mono, ui-monospace, monospace"><text class="terminal-type" x="60" y="91" xml:space="preserve"><tspan class="typed-char" style="--char-delay:0.000s;--char-scroll:17.00%">E</tspan><tspan class="typed-char" style="--char-delay:0.045s;--char-scroll:34.00%">x</tspan><tspan class="typed-char" style="--char-delay:0.090s;--char-scroll:51.00%">c</tspan><tspan class="typed-char" style="--char-delay:0.135s;--char-scroll:68.00%">e</tspan><tspan class="typed-char" style="--char-delay:0.180s;--char-scroll:85.00%">l</tspan></text></g><style>
+@media (prefers-reduced-motion: no-preference) {
+  .terminal-type,.copy-line,.metric,.typed {animation:none!important}
+  .typed-char {animation:character-visible .045s step-end calc(var(--type-delay,var(--delay,.08s)) + var(--char-delay)) both}
+}
+@keyframes character-visible {from {opacity:0} to {opacity:1}}
+</style></svg><svg width="126" height="114" viewBox="-5 -5 130 118" x="252" y="5" style="--icon-delay:0.42s;--label-delay:0.89s"><title>PowerPoint</title><style>
+@media (prefers-reduced-motion: no-preference) {
+  .terminal-type { animation:terminal-type var(--typed-duration,.9s) steps(var(--typed-steps,20),end) var(--type-delay,.08s) both; }
+  .terminal-rule-in { transform-origin:center;animation:terminal-line .6s ease-out both; }
+}
+@keyframes terminal-type { from {clip-path:inset(0 100% 0 0)} to {clip-path:inset(0)} }
+@keyframes terminal-line { from {transform:scaleX(.15)} to {transform:scaleX(1)} }
+.term-panel {fill:#fffafa;stroke:#d99ca5}
+.term-bar {fill:#f9e9ec}
+.term-rule {stroke:#d99ca5}
+.term-text {fill:#8e142b}
+.term-muted {fill:#932b3c}
+.term-accent {fill:#a41931}
+.term-accent-stroke {stroke:#a41931}
+@media (prefers-color-scheme: dark) {
+.term-panel {fill:#100d10;stroke:#6f2631}
+.term-bar {fill:#201417}
+.term-rule {stroke:#6f2631}
+.term-text {fill:#ffd0d7}
+.term-muted {fill:#eab3bd}
+.term-accent {fill:#ff6078}
+.term-accent-stroke {stroke:#ff6078}
+}
+</style><style>
+.logo-dark {display:none}
+@media (prefers-color-scheme: dark) {.logo-light {display:none}.logo-dark {display:inline}}
+@media (prefers-reduced-motion: no-preference) {
+  .caption { --type-delay:var(--label-delay,.28s) }
+}
+</style><defs><filter id="card2-logo-dark" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB"><feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 0.35 0 0 0 0 0.46 1.2 1.2 1.2 0 -.28" /><feComposite in2="SourceAlpha" operator="in" /></filter><filter id="card2-logo-light" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB"><feColorMatrix type="matrix" values="0 0 0 0 0.62 0 0 0 0 0.07 0 0 0 0 0.17 1.2 1.2 1.2 0 -.28" /><feComposite in2="SourceAlpha" operator="in" /></filter><g id="card2-logo-source"><svg viewBox="0 0 32 32" x="32" y="10" width="56" height="56"><defs><linearGradient id="card2-a" x1="4.494" x2="13.832" y1="-1748.086" y2="-1731.914" gradientTransform="translate(0 1756)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ca4c28" /><stop offset=".5" stop-color="#c5401e" /><stop offset="1" stop-color="#b62f14" /></linearGradient></defs><path fill="#ed6c47" d="M18.93 17.3 16.977 3h-.146A12.9 12.9 0 0 0 3.953 15.854V16Z" /><path fill="#ff8f6b" d="M17.123 3h-.146v13l6.511 2.6L30 16v-.146A12.9 12.9 0 0 0 17.123 3" /><path fill="#242424" d="M30 16v.143A12.905 12.905 0 0 1 17.12 29h-.287a12.907 12.907 0 0 1-12.88-12.857V16Z" /><path d="M17.628 9.389V23.26a1.2 1.2 0 0 1-.742 1.1 1.2 1.2 0 0 1-.45.091H7.027a10 10 0 0 1-.521-.65 12.74 12.74 0 0 1-2.553-7.657v-.286A12.7 12.7 0 0 1 6.05 8.85a9 9 0 0 1 .456-.65h9.93a1.2 1.2 0 0 1 1.192 1.189" opacity=".1" /><path d="M16.977 10.04v13.871a1.2 1.2 0 0 1-.091.448 1.2 1.2 0 0 1-1.1.741H7.62q-.309-.314-.593-.65a10 10 0 0 1-.521-.65 12.74 12.74 0 0 1-2.553-7.657v-.286A12.7 12.7 0 0 1 6.05 8.85h9.735a1.2 1.2 0 0 1 1.192 1.19" opacity=".2" /><path d="M16.977 10.04v12.571a1.2 1.2 0 0 1-1.192 1.189H6.506a12.74 12.74 0 0 1-2.553-7.657v-.286A12.7 12.7 0 0 1 6.05 8.85h9.735a1.2 1.2 0 0 1 1.192 1.19" opacity=".2" /><path d="M16.326 10.04v12.571a1.2 1.2 0 0 1-1.192 1.189H6.506a12.74 12.74 0 0 1-2.553-7.657v-.286A12.7 12.7 0 0 1 6.05 8.85h9.084a1.2 1.2 0 0 1 1.192 1.19" opacity=".2" /><path fill="#363636" d="M3.194 8.85h11.938a1.193 1.193 0 0 1 1.194 1.191v11.918a1.193 1.193 0 0 1-1.194 1.191H3.194A1.19 1.19 0 0 1 2 21.959V10.041A1.19 1.19 0 0 1 3.194 8.85" /><path fill="#fff" d="M9.293 12.028a3.3 3.3 0 0 1 2.174.636 2.27 2.27 0 0 1 .756 1.841 2.56 2.56 0 0 1-.373 1.376 2.5 2.5 0 0 1-1.059.935 3.6 3.6 0 0 1-1.591.334H7.687v2.8H6.141v-7.922ZM7.686 15.94h1.331a1.74 1.74 0 0 0 1.177-.351 1.3 1.3 0 0 0 .4-1.025q0-1.309-1.525-1.31H7.686z" /></svg></g></defs><g class="glyph"><use class="logo-light" href="#card2-logo-source" filter="url(#card2-logo-light)" /><use class="logo-dark" href="#card2-logo-source" filter="url(#card2-logo-dark)" /></g><g class="caption term-text" text-anchor="middle" fill="#291519" font-size="12" font-weight="500" font-family="JetBrains Mono, ui-monospace, monospace"><text class="terminal-type" x="60" y="91" xml:space="preserve"><tspan class="typed-char" style="--char-delay:0.000s;--char-scroll:8.50%">P</tspan><tspan class="typed-char" style="--char-delay:0.045s;--char-scroll:17.00%">o</tspan><tspan class="typed-char" style="--char-delay:0.090s;--char-scroll:25.50%">w</tspan><tspan class="typed-char" style="--char-delay:0.135s;--char-scroll:34.00%">e</tspan><tspan class="typed-char" style="--char-delay:0.180s;--char-scroll:42.50%">r</tspan><tspan class="typed-char" style="--char-delay:0.225s;--char-scroll:51.00%">P</tspan><tspan class="typed-char" style="--char-delay:0.270s;--char-scroll:59.50%">o</tspan><tspan class="typed-char" style="--char-delay:0.315s;--char-scroll:68.00%">i</tspan><tspan class="typed-char" style="--char-delay:0.360s;--char-scroll:76.50%">n</tspan><tspan class="typed-char" style="--char-delay:0.405s;--char-scroll:85.00%">t</tspan></text></g><style>
+@media (prefers-reduced-motion: no-preference) {
+  .terminal-type,.copy-line,.metric,.typed {animation:none!important}
+  .typed-char {animation:character-visible .045s step-end calc(var(--type-delay,var(--delay,.08s)) + var(--char-delay)) both}
+}
+@keyframes character-visible {from {opacity:0} to {opacity:1}}
+</style></svg><svg width="126" height="114" viewBox="-5 -5 130 118" x="378" y="5" style="--icon-delay:0.63s;--label-delay:1.16s"><title>Power BI</title><style>
+@media (prefers-reduced-motion: no-preference) {
+  .terminal-type { animation:terminal-type var(--typed-duration,.9s) steps(var(--typed-steps,20),end) var(--type-delay,.08s) both; }
+  .terminal-rule-in { transform-origin:center;animation:terminal-line .6s ease-out both; }
+}
+@keyframes terminal-type { from {clip-path:inset(0 100% 0 0)} to {clip-path:inset(0)} }
+@keyframes terminal-line { from {transform:scaleX(.15)} to {transform:scaleX(1)} }
+.term-panel {fill:#fffafa;stroke:#d99ca5}
+.term-bar {fill:#f9e9ec}
+.term-rule {stroke:#d99ca5}
+.term-text {fill:#8e142b}
+.term-muted {fill:#932b3c}
+.term-accent {fill:#a41931}
+.term-accent-stroke {stroke:#a41931}
+@media (prefers-color-scheme: dark) {
+.term-panel {fill:#100d10;stroke:#6f2631}
+.term-bar {fill:#201417}
+.term-rule {stroke:#6f2631}
+.term-text {fill:#ffd0d7}
+.term-muted {fill:#eab3bd}
+.term-accent {fill:#ff6078}
+.term-accent-stroke {stroke:#ff6078}
+}
+</style><style>
+.logo-dark {display:none}
+@media (prefers-color-scheme: dark) {.logo-light {display:none}.logo-dark {display:inline}}
+@media (prefers-reduced-motion: no-preference) {
+  .caption { --type-delay:var(--label-delay,.28s) }
+}
+</style><defs><filter id="card3-logo-dark" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB"><feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 0.35 0 0 0 0 0.46 1.2 1.2 1.2 0 -.28" /><feComposite in2="SourceAlpha" operator="in" /></filter><filter id="card3-logo-light" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB"><feColorMatrix type="matrix" values="0 0 0 0 0.62 0 0 0 0 0.07 0 0 0 0 0.17 1.2 1.2 1.2 0 -.28" /><feComposite in2="SourceAlpha" operator="in" /></filter><g id="card3-logo-source"><svg viewBox="0 0 48 48" x="32" y="10" width="56" height="56"><rect x="28" y="3" width="13" height="42" rx="3" fill="#f5c542" /><rect x="16" y="12" width="13" height="33" rx="3" fill="#e2a630" /><rect x="4" y="22" width="13" height="23" rx="3" fill="#c58829" /></svg></g></defs><g class="glyph"><use class="logo-light" href="#card3-logo-source" filter="url(#card3-logo-light)" /><use class="logo-dark" href="#card3-logo-source" filter="url(#card3-logo-dark)" /></g><g class="caption term-text" text-anchor="middle" fill="#291519" font-size="12" font-weight="500" font-family="JetBrains Mono, ui-monospace, monospace"><text class="terminal-type" x="60" y="91" xml:space="preserve"><tspan class="typed-char" style="--char-delay:0.000s;--char-scroll:10.62%">P</tspan><tspan class="typed-char" style="--char-delay:0.045s;--char-scroll:21.25%">o</tspan><tspan class="typed-char" style="--char-delay:0.090s;--char-scroll:31.88%">w</tspan><tspan class="typed-char" style="--char-delay:0.135s;--char-scroll:42.50%">e</tspan><tspan class="typed-char" style="--char-delay:0.180s;--char-scroll:53.12%">r</tspan> <tspan class="typed-char" style="--char-delay:0.270s;--char-scroll:74.38%">B</tspan><tspan class="typed-char" style="--char-delay:0.315s;--char-scroll:85.00%">I</tspan></text></g><style>
+@media (prefers-reduced-motion: no-preference) {
+  .terminal-type,.copy-line,.metric,.typed {animation:none!important}
+  .typed-char {animation:character-visible .045s step-end calc(var(--type-delay,var(--delay,.08s)) + var(--char-delay)) both}
+}
+@keyframes character-visible {from {opacity:0} to {opacity:1}}
+</style></svg><svg width="126" height="114" viewBox="-5 -5 130 118" x="504" y="5" style="--icon-delay:0.84s;--label-delay:1.43s"><title>SAP</title><style>
+@media (prefers-reduced-motion: no-preference) {
+  .terminal-type { animation:terminal-type var(--typed-duration,.9s) steps(var(--typed-steps,20),end) var(--type-delay,.08s) both; }
+  .terminal-rule-in { transform-origin:center;animation:terminal-line .6s ease-out both; }
+}
+@keyframes terminal-type { from {clip-path:inset(0 100% 0 0)} to {clip-path:inset(0)} }
+@keyframes terminal-line { from {transform:scaleX(.15)} to {transform:scaleX(1)} }
+.term-panel {fill:#fffafa;stroke:#d99ca5}
+.term-bar {fill:#f9e9ec}
+.term-rule {stroke:#d99ca5}
+.term-text {fill:#8e142b}
+.term-muted {fill:#932b3c}
+.term-accent {fill:#a41931}
+.term-accent-stroke {stroke:#a41931}
+@media (prefers-color-scheme: dark) {
+.term-panel {fill:#100d10;stroke:#6f2631}
+.term-bar {fill:#201417}
+.term-rule {stroke:#6f2631}
+.term-text {fill:#ffd0d7}
+.term-muted {fill:#eab3bd}
+.term-accent {fill:#ff6078}
+.term-accent-stroke {stroke:#ff6078}
+}
+</style><style>
+.logo-dark {display:none}
+@media (prefers-color-scheme: dark) {.logo-light {display:none}.logo-dark {display:inline}}
+@media (prefers-reduced-motion: no-preference) {
+  .caption { --type-delay:var(--label-delay,.28s) }
+}
+</style><defs><filter id="card4-logo-dark" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB"><feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 0.35 0 0 0 0 0.46 0 0 0 1 0" /></filter><filter id="card4-logo-light" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB"><feColorMatrix type="matrix" values="0 0 0 0 0.62 0 0 0 0 0.07 0 0 0 0 0.17 0 0 0 1 0" /></filter><g id="card4-logo-source"><svg role="img" viewBox="0 0 24 24" x="32" y="10" width="56" height="56" fill="#37afe5"><title>SAP</title><path d="M0 6.064v11.872h12.13L24 6.064zm3.264 2.208h.005c.863.001 1.915.245 2.676.633l-.82 1.43c-.835-.404-1.255-.442-1.73-.467-.708-.038-1.064.215-1.069.488-.007.332.669.633 1.305.838.964.306 2.19.715 2.377 1.9L7.77 8.437h2.046l2.064 5.576-.007-5.575h2.37c2.257 0 3.318.764 3.318 2.519 0 1.575-1.09 2.514-2.936 2.514h-.763l-.01 2.094-3.588-.003-.25-.908c-.37.122-.787.189-1.23.189-.456 0-.885-.071-1.263-.2l-.358.919-2 .006.09-.462c-.029.025-.057.05-.087.074-.535.43-1.208.629-2.037.644l-.213.002a5.075 5.075 0 0 1-2.581-.675l.73-1.448c.79.467 1.286.572 1.956.558.347-.007.598-.07.761-.239a.557.557 0 0 0 .156-.369c.007-.376-.53-.553-1.185-.756-.531-.164-1.135-.389-1.606-.735-.559-.41-.825-.924-.812-1.65a1.99 1.99 0 0 1 .566-1.377c.519-.537 1.357-.863 2.363-.863zm10.597 1.67v1.904h.521c.694 0 1.247-.23 1.248-.964 0-.709-.554-.94-1.248-.94zm-5.087.767l-.748 2.362c.223.085.481.133.757.133.268 0 .52-.047.742-.126l-.736-2.37z" /></svg></g></defs><g class="glyph"><use class="logo-light" href="#card4-logo-source" filter="url(#card4-logo-light)" /><use class="logo-dark" href="#card4-logo-source" filter="url(#card4-logo-dark)" /></g><g class="caption term-text" text-anchor="middle" fill="#291519" font-size="12" font-weight="500" font-family="JetBrains Mono, ui-monospace, monospace"><text class="terminal-type" x="60" y="91" xml:space="preserve"><tspan class="typed-char" style="--char-delay:0.000s;--char-scroll:28.33%">S</tspan><tspan class="typed-char" style="--char-delay:0.045s;--char-scroll:56.67%">A</tspan><tspan class="typed-char" style="--char-delay:0.090s;--char-scroll:85.00%">P</tspan></text></g><style>
+@media (prefers-reduced-motion: no-preference) {
+  .terminal-type,.copy-line,.metric,.typed {animation:none!important}
+  .typed-char {animation:character-visible .045s step-end calc(var(--type-delay,var(--delay,.08s)) + var(--char-delay)) both}
+}
+@keyframes character-visible {from {opacity:0} to {opacity:1}}
+</style></svg></svg>
